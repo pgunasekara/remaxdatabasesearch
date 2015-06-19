@@ -1,0 +1,54 @@
+th
+{
+	font-family:Tahoma;
+	font-size:14px;
+	border-collapse:collapse;
+	background-COLOR:#424242;
+	border:0px;
+}
+
+tr:nth-child(2n+1)
+{
+	background-color: #D8D8D8;
+}
+
+td
+{
+	font-family:Tahoma; 
+	font-size:14px;
+	border-collapse:collapse
+}
+
+p
+{
+	font-family:Tahoma; 
+	font-size:14px;
+}
+
+body
+{
+	background-image:url('background.png');
+	text-align:center;
+}
+
+h1
+{
+	font-family:Tahoma;
+}
+
+table
+{
+    text-align: center;
+	margin: 0 auto;
+	border-collapse:collapse
+}
+font
+{
+	color:#FFFFFF
+}
+
+#map
+{
+    width:600px;
+    height:400px;
+}
